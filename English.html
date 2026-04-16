@@ -1,0 +1,35 @@
+<!doctype html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="English.css">
+    <link rel="stylesheet" href="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+
+  <body>
+    <div id="input-container">
+      <lable>Choose a video file:</lable>
+      <input type="file" accept="video/*">
+    </div>
+    <div id="video-container" style="position:relative">
+        <div id="inner" style="position:absolute; bottom:0; left:0; width:100%; background-color:rgba(0,0,0,1)"></div>
+        <video controls controlslist="nofullscreen" src="" style="width:100%"></video>
+        <div id="buttons" style="position:absolute; bottom:15%; left:5px">
+            <button id="up">
+                <i class="fa fa fa-arrow-up"></i>
+            </button><br>
+            <button id="down">
+                <i class="fa fa-arrow-down"></i>
+            </button><br>
+            <button id="back">
+                <i class="fa fa-rotate-left"></i>
+            </button><br>
+            <button id="continue">
+                <i class="fa fa-arrow-right	"></i>
+            </button>
+        </div>
+    </div>
+    <script src="English.js"></script>
+  </body>
+</html>
