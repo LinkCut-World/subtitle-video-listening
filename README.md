@@ -10,6 +10,8 @@ Listen without subtitles, then replay that segment with subtitles visible when y
 
 ![screenshot](assets/screenshot.png)
 
+*Screenshot for illustration. Credit: [Voice of America](https://www.voanews.com/).*
+
 ## Getting Started
 
 ### 1. Load a Video
