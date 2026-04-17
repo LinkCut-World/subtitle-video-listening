@@ -38,17 +38,17 @@ Listen without subtitles, then replay that segment with subtitles visible when y
 
 ## Running the Application
 
-Open `English.html` in any modern web browser. No installation required.
+Open `index.html` in any modern web browser. No installation required.
 
 ```bash
 # Windows
-start English.html
+start index.html
 
 # macOS
-open English.html
+open index.html
 
 # Linux
-xdg-open English.html
+xdg-open index.html
 ```
 
 ## Requirements

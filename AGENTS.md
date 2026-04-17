@@ -8,15 +8,15 @@ A static web application for listening comprehension practice. Users segment vid
 
 ## Running the Application
 
-This is a pure static HTML/CSS/JS application with no build process. Open `English.html` in a web browser.
+This is a pure static HTML/CSS/JS application with no build process. Open `index.html` in a web browser.
 
 ## Architecture
 
 ### Core Components
 
-- **English.html**: Main HTML structure with video player and control buttons
-- **English.js**: Application logic for video playback and A-B repeat
-- **English.css**: Styling for control buttons
+- **index.html**: Main HTML structure with video player and control buttons
+- **index.js**: Application logic for video playback and A-B repeat
+- **index.css**: Styling for control buttons
 
 ### Test-Then-Check Workflow
 
